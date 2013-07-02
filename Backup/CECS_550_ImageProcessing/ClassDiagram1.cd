@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CECS_550_ImageProcessing.AboutForm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>AboutForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CECS_550_ImageProcessing.Form1">
+    <Position X="7.5" Y="0.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BwCIdoAIxCCACZDDAiCSlARiHUgQhEQUgrUoBAxCgeA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CECS_550_ImageProcessing.Program">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CECS_550_ImageProcessing.ProgressBarForm">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProgressBarForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CECS_550_ImageProcessing.SettingsForm">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQAAAAACAIIBAAAAGAIAACAAAQAAAAAiAAAAAAAAA=</HashCode>
+      <FileName>SettingsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CECS_550_ImageProcessing.XIRTools">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tools\XIRTools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CECS_550_ImageProcessing.XmlHelper">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Tools\XmlHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CECS_550_ImageProcessing.Filters.PixelationFilter">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filters\PixelationFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CECS_550_ImageProcessing.Filters.FilterHelper">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAEAAAAAAAAAAAACAAAAAIAIAAAAA=</HashCode>
+      <FileName>Tools\FilterHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CECS_550_ImageProcessing.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CECS_550_ImageProcessing.Properties.Settings">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="CECS_550_ImageProcessing.MosaicInputs">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAgAAAAgAAAgAAAEACAAAAAgAAAA=</HashCode>
+      <FileName>DataStructs\MosaicInputs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CECS_550_ImageProcessing.OutputOptions">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAQAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataStructs\OutputOptions.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

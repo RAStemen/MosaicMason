@@ -1,0 +1,41 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.Resize.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\bin\Debug\BatchImageScaler.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\bin\Debug\BatchImageScaler.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.pdb
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\bin\Debug\BatchImageScaler.exe
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\bin\Debug\BatchImageScaler.pdb
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.Resize.resources
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.Properties.Resources.resources
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.csproj.GenerateResource.Cache
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.exe
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.pdb
+C:\Documents and Settings\djchan01\Desktop\CECS_550_ImageProcessing\BatchImageScaler\bin\Debug\BatchImageScaler.exe
+C:\Documents and Settings\djchan01\Desktop\CECS_550_ImageProcessing\BatchImageScaler\bin\Debug\BatchImageScaler.pdb
+C:\Documents and Settings\djchan01\Desktop\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\djchan01\Desktop\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.Resize.resources
+C:\Documents and Settings\djchan01\Desktop\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.Properties.Resources.resources
+C:\Documents and Settings\djchan01\Desktop\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.csproj.GenerateResource.Cache
+C:\Documents and Settings\djchan01\Desktop\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.exe
+C:\Documents and Settings\djchan01\Desktop\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.pdb
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\bin\Debug\BatchImageScaler.exe
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\bin\Debug\BatchImageScaler.pdb
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.Resize.resources
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.Properties.Resources.resources
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.csproj.GenerateResource.Cache
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.exe
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.pdb
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\BatchImageScaler\bin\Debug\BatchImageScaler.exe
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\BatchImageScaler\bin\Debug\BatchImageScaler.pdb
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.Resize.resources
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.Properties.Resources.resources
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\ResGen.read.1.tlog
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\ResGen.write.1.tlog
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.exe
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\BatchImageScaler\obj\Debug\BatchImageScaler.pdb

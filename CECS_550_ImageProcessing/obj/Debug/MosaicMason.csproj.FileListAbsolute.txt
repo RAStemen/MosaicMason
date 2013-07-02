@@ -1,0 +1,37 @@
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\bin\Debug\CECS_550_ImageProcessing.exe
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\bin\Debug\CECS_550_ImageProcessing.pdb
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\bin\Debug\CUDA.NET.dll
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.AboutForm.resources
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.MosaicMasonForm.resources
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.ProgressBarForm.resources
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.Properties.Resources.resources
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.SettingsForm.resources
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\MosaicMason.csproj.GenerateResource.Cache
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.exe
+C:\Users\RAStemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.pdb
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\bin\Debug\CECS_550_ImageProcessing.exe
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\bin\Debug\CECS_550_ImageProcessing.pdb
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\bin\Debug\CUDA.NET.dll
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.AboutForm.resources
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.MosaicMasonForm.resources
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.ProgressBarForm.resources
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.Properties.Resources.resources
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.SettingsForm.resources
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\MosaicMason.csproj.GenerateResource.Cache
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.exe
+C:\Users\Ryan Stemen\Documents\Visual Studio 2008\Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.pdb
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.exe
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.pdb
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\bin\Debug\CECS_550_ImageProcessing.exe
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\bin\Debug\CECS_550_ImageProcessing.pdb
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\bin\Debug\CUDA.NET.dll
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.AboutForm.resources
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.MosaicMasonForm.resources
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.ProgressBarForm.resources
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.Properties.Resources.resources
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.SettingsForm.resources
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\ResGen.read.1.tlog
+D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\ResGen.write.1.tlog
