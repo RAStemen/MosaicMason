@@ -91,6 +91,9 @@
     <Compile Include="DataTypes\XIRImage.cs" />
     <Compile Include="DataTypes\XIRPixelationTechnique.cs" />
     <Compile Include="DataTypes\XIRToneMap.cs" />
+    <Compile Include="Profiles\HSV.cs" />
+    <Compile Include="Profiles\IColorProfile.cs" />
+    <Compile Include="Profiles\RGB.cs" />
     <Compile Include="ProgressBarForm.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -35,3 +35,17 @@ D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\D
 D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.SettingsForm.resources
 D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\ResGen.read.1.tlog
 D:\Code\VS_2008_Projects\CECS_550_ImageProcessing\CECS_550_ImageProcessing\obj\Debug\ResGen.write.1.tlog
+C:\MosaicMason\CECS_550_ImageProcessing\bin\Debug\CECS_550_ImageProcessing.exe
+C:\MosaicMason\CECS_550_ImageProcessing\bin\Debug\CECS_550_ImageProcessing.pdb
+C:\MosaicMason\CECS_550_ImageProcessing\bin\Debug\CUDA.NET.dll
+C:\MosaicMason\CECS_550_ImageProcessing\obj\Debug\MosaicMason.csproj.AssemblyReference.cache
+C:\MosaicMason\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.AboutForm.resources
+C:\MosaicMason\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.MosaicMasonForm.resources
+C:\MosaicMason\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.ProgressBarForm.resources
+C:\MosaicMason\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.Properties.Resources.resources
+C:\MosaicMason\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.SettingsForm.resources
+C:\MosaicMason\CECS_550_ImageProcessing\obj\Debug\MosaicMason.csproj.GenerateResource.cache
+C:\MosaicMason\CECS_550_ImageProcessing\obj\Debug\MosaicMason.csproj.CoreCompileInputs.cache
+C:\MosaicMason\CECS_550_ImageProcessing\obj\Debug\MosaicMason.csproj.CopyComplete
+C:\MosaicMason\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.exe
+C:\MosaicMason\CECS_550_ImageProcessing\obj\Debug\CECS_550_ImageProcessing.pdb
