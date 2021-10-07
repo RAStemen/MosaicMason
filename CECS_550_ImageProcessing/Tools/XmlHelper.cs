@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Drawing;
 
-namespace CECS_550_ImageProcessing
+namespace MosaicMason
 {
     public static class XmlHelper
     {

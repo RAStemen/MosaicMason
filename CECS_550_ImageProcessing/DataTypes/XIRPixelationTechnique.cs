@@ -5,7 +5,7 @@ using System.Text;
 using System.Xml;
 using System.Drawing;
 
-namespace CECS_550_ImageProcessing.DataTypes
+namespace MosaicMason.DataTypes
 {
     public class XIRPixelationTechnique
     {

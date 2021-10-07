@@ -5,7 +5,7 @@ using System.Text;
 using System.Drawing;
 using System.Xml;
 
-namespace CECS_550_ImageProcessing.DataTypes
+namespace MosaicMason.DataTypes
 {
     class XIRToneMap
     {

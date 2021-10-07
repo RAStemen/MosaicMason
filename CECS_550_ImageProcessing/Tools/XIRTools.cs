@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Xml;
-using CECS_550_ImageProcessing.DataTypes;
+using MosaicMason.DataTypes;
 using System.IO;
 
-namespace CECS_550_ImageProcessing
+namespace MosaicMason
 {
     static class XIRTools
     {

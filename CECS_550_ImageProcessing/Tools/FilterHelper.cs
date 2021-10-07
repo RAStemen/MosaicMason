@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Drawing;
 using System.Collections;
-using CECS_550_ImageProcessing.DataTypes;
+using MosaicMason.DataTypes;
 using System.Threading;
 using System.IO;
 using System.Windows.Forms;
 
-namespace CECS_550_ImageProcessing.Filters
+namespace MosaicMason.Filters
 {
     public static class FilterHelper
     {
@@ -62,7 +62,7 @@ namespace CECS_550_ImageProcessing.Filters
             int y1 = (int)startY;
             double tmpY = startY + height;
             int y2 = (tmpY % 1 > 0 && tmpY + 1 < image.Height) ? (int)(tmpY + 1) : (int)tmpY;
-            double numOfPixels = 0; //width* height;
+            double numOfPixels = 0;
             for (int y = y1; y < y2; y++)
             {
                 for (int x = x1; x < x2; x++)
@@ -134,7 +134,10 @@ namespace CECS_550_ImageProcessing.Filters
                             new Point(x, y), xCells, yCells, outputDimensions, XIR.Instance[imageMatchId], output);
                         renderedLocations.AddRange(tmpLocs);
                         image.Dispose();
-                        progressBar.Value += (tmpLocs.Count + progressBar.Value <= progressBar.Maximum) ? tmpLocs.Count : 0;
+                        progressBar.Invoke((ThreadStart)delegate
+                        {
+                            progressBar.Value += (tmpLocs.Count + progressBar.Value <= progressBar.Maximum) ? tmpLocs.Count : 0;
+                        });
                     }
                     
                 }

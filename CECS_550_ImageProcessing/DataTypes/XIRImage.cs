@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Xml;
 
-namespace CECS_550_ImageProcessing.DataTypes
+namespace MosaicMason.DataTypes
 {
     public class XIRImage
     {
@@ -61,6 +61,7 @@ namespace CECS_550_ImageProcessing.DataTypes
             dims.SetAttribute("width", dimensions.width.ToString());
             dims.SetAttribute("height", dimensions.height.ToString());
             imageElement.AppendChild(dims);
+            pixTechs.RemoveAll(new Predicate<XIRPixelationTechnique>(elem => elem == null));
             foreach (XIRPixelationTechnique pixTech in pixTechs)
             {
                 imageElement.AppendChild(pixTech.toXmlElement(xir));
@@ -72,7 +73,7 @@ namespace CECS_550_ImageProcessing.DataTypes
         {
             foreach (XIRPixelationTechnique pixTech in pixTechs)
             {
-                if (Math.Abs(pixTech.aspectRatio - aspectRatio) < 0.005f && pixTech.subdivisionLevel == subdivisionLevel)
+                if (pixTech != null && Math.Abs(pixTech.aspectRatio - aspectRatio) < 0.005f && pixTech.subdivisionLevel == subdivisionLevel)
                 {
                     return pixTech;
                 }

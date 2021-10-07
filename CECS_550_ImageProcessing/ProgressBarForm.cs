@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace CECS_550_ImageProcessing
+namespace MosaicMason
 {
     public partial class ProgressBarForm : Form
     {

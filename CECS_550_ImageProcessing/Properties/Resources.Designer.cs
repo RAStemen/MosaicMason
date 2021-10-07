@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CECS_550_ImageProcessing.Properties {
+namespace MosaicMason.Properties {
     using System;
     
     

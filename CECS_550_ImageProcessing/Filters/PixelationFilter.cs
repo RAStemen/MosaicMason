@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Drawing;
 using System.Xml;
-using CECS_550_ImageProcessing.DataTypes;
+using MosaicMason.DataTypes;
 using System.Drawing.Imaging;
 
-namespace CECS_550_ImageProcessing.Filters
+namespace MosaicMason.Filters
 {
     public static class PixelationFilter
     {

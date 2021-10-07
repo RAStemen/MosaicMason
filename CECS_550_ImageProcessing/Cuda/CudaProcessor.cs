@@ -6,7 +6,7 @@ using System.Text;
 using GASS.CUDA;
 using GASS.CUDA.Types;
 using System.IO;
-using CECS_550_ImageProcessing;
+using MosaicMason;
 using System.Windows.Forms;
 
 

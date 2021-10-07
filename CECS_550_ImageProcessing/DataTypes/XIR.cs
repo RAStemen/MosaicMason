@@ -6,7 +6,7 @@ using System.Xml;
 using System.Text;
 using System.Drawing;
 
-namespace CECS_550_ImageProcessing.DataTypes
+namespace MosaicMason.DataTypes
 {
     class XIR : Dictionary<int, XIRImage>
     {
@@ -45,7 +45,7 @@ namespace CECS_550_ImageProcessing.DataTypes
             foreach (XIRImage image in this.Values)
             {
                 currentNode = XML.GetElementById(image.id.ToString().PadLeft(7, '0'));
-                if (currentNode != null)
+                if (currentNode != null && currentNode.ParentNode != null)
                 {
                     images.ReplaceChild(image.ToXmlElement(), currentNode);
                 }

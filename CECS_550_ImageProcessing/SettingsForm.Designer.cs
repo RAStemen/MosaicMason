@@ -1,4 +1,4 @@
-﻿namespace CECS_550_ImageProcessing
+﻿namespace MosaicMason
 {
     partial class SettingsForm
     {
